@@ -1,5 +1,5 @@
 # GetEmbeddedVimeo
-Get the original video from any webpage that have embedded vimeo frame.
+User Script that gets the original video from any webpage that have embedded vimeo frame, and adds a button for download.
 
 Disclaimer
 -
